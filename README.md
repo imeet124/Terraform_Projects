@@ -11,4 +11,9 @@ What did I learn?
 5. Use all terraform command in specific order. (terraform init, terraform plan, terraform apply, terraform destroy)
 
 # Project2
+Create a module for EC2 insatnce with the help of terraform but this time I made a planty of changes in this prject.
 
+changes I made:
+1. I made this project as a module for EC2 instance.
+2. Write a diffrent files so, anyone can understand and use this module again and again.
+3. Adveantage: Easy to understande and manage resources.
