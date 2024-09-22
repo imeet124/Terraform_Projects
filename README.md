@@ -10,7 +10,7 @@ What did I learn?
 4. Do not write your Access key and Sceret access key in main.tf file.
 5. Use all terraform command in specific order. (terraform init, terraform plan, terraform apply, terraform destroy)
 
-# Project2
+# Module/EC2 instances
 Create a module for EC2 insatnce with the help of terraform but this time I made a planty of changes in this prject.
 
 changes I made:
